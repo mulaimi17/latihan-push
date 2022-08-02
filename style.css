@@ -1,0 +1,24 @@
+.link1 li a{
+    color:mediumturquoise;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    
+}
+.link2 li a{
+    color: yellowgreen;
+    font-family: 'Gill Sans', 'Gill Sans MTTrebuchet MS', sans-serif;
+    
+}
+
+.img{
+    border-radius: 100px;
+    color:blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    background-color: aqua;
+    text-align: center;
+}
+
+img{
+    border-radius: 200px;
+}
